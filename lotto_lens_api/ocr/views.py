@@ -10,7 +10,6 @@ def ocr_endpoint(request):
 
     if request.method == 'POST' and request.FILES.get('image'):
         # Assuming 'image' is the name of the file input field
-        # processed_image = request.FILES['image']
         uploaded_image = request.FILES['image']
         processed_image = process_image(uploaded_image)
 
