@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "22c693071e4657681e50eb2354ed44a3f4c6f877d1e1a28d186f713c054ceba7"
+            "sha256": "7b41d0058c1b71667b5ab33b0967df4a3c770802cc023e528fb2ee9446a36081"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -215,6 +215,14 @@
             "markers": "python_version >= '3.6'",
             "version": "==4.8.1.78"
         },
+        "packaging": {
+            "hashes": [
+                "sha256:048fb0e9405036518eaaf48a55953c750c11e1a1b68e0dd1a9d62ed0c092cfc5",
+                "sha256:8c491190033a9af7e1d931d0b5dacc2ef47509b34dd0de67ed209b5203fc88c7"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==23.2"
+        },
         "pillow": {
             "hashes": [
                 "sha256:0462b1496505a3462d0f35dc1c4d7b54069747d65d00ef48e736acda2c8cbdff",
@@ -275,6 +283,15 @@
             "index": "pypi",
             "markers": "python_version >= '3.8'",
             "version": "==10.0.1"
+        },
+        "pytesseract": {
+            "hashes": [
+                "sha256:8f22cc98f765bf13517ead0c70effedb46c153540d25783e04014f28b55a5fc6",
+                "sha256:f1c3a8b0f07fd01a1085d451f5b8315be6eec1d5577a6796d46dc7a62bd4120f"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.7'",
+            "version": "==0.3.10"
         },
         "pytz": {
             "hashes": [

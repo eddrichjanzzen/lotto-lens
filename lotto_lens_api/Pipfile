@@ -15,6 +15,7 @@ requests = "*"
 pillow = "*"
 opencv-python = "*"
 numpy = "*"
+pytesseract = "*"
 
 [dev-packages]
 
