@@ -9,6 +9,9 @@ opencv-contrib-python = "*"
 numpy = "*"
 pytesseract = "*"
 jupyter = "*"
+bs4 = "*"
+requests = "*"
+pandas = "*"
 
 [dev-packages]
 
